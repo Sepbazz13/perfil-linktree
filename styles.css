@@ -8,8 +8,7 @@ body {
   align-items: center;
   min-height: 100vh;
 }
-
-/* Main profile container */
+ 
 /* Main profile container */
 .profile-container {
   width: 100%;
@@ -23,7 +22,6 @@ body {
   font-family: "Arial", sans-serif;
   padding-bottom: 40px; /* Ajusta el padding para el contenido */
 }
-
 
 /* Profile header */
 .profile-header {
@@ -113,4 +111,3 @@ body {
   border-radius: 50%;
   object-fit: contain;
 }
-
